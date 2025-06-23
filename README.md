@@ -2,7 +2,9 @@
 CS-465 Full Stack Development with MEAN
 
 -  **Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).**
--    test
+      tst
+
+
 -  **Why did the backend use a NoSQL MongoDB database?**
 -  **How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?**
 -  **Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.**
